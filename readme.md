@@ -45,7 +45,5 @@ paste above path http://127.0.0.1:8000/ in browser.
 In case port is busy change the port number writting "python manage.py runserver 8082"
 
 ### Contributer
-Adarsh Gupta(CSE-2022) 1900520109001
-Km Jyoti(CSE-2022) 1900520109004
-Zainab Israr Ansari(CSE-2022) 1900520109006
+Ankan Biswas
 
